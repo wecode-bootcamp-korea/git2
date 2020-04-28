@@ -9,7 +9,7 @@
         </tr>
         <tr>
           <td>이름</td>
-          <td>이름</td>
+          <td>김지아</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
