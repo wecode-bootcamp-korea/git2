@@ -1,13 +1,13 @@
 <table>
       <tbody>
         <tr>
-          <td>김영목</td>
-          <td>김영목</td>
+<<<<<<< HEAD
           <td>김지아</td>
-          <td>김영목/td>
-          <td>김영목</td>
-	  d>
-       </tr>
+          <td>김지아</td>
+          <td>김지아</td>
+          <td>김지아</td>
+          <td>김지아</td>
+	      </tr>
        <tr>
           <td>김지아<</td>
           <td>이름</td>
@@ -20,12 +20,22 @@
 < HEAD
           <td>이름</td>
           <td>김지아</td>
-          <td>김소리</td>
+          <td>김지아</td>
           <td>김소리</td>
           <td>이름</td>
-          <td>이름</td>
+          <td>김지아</td>
           <td>이름</td>
         </tr>
+
+
+       </tr>
+       <tr>
+          <td>메롱</td>
+          <td>메롱</td>
+          <td>김지아</td>
+          <td>김지아</td>
+          <td>이름</td>
+       <tr>
 
       </tbody>
 </table>
