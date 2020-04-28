@@ -1,7 +1,7 @@
 <table>
       <tbody>
         <tr>
-<<<<<<< HEAD
+< HEAD
           <td>김지아</td>
           <td>김지아</td>
           <td>김지아</td>
