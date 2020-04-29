@@ -6,13 +6,13 @@
           <td>지훈</td>
           <td>지훈</td>
           <td>지훈</td>
-        </tr>
-        <tr>
+       </tr>
+       <tr>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
           <td>김소리</td>
           <td>김소리</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
         </tr>
       </tbody>
 </table>
