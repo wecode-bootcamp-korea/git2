@@ -1,12 +1,11 @@
 <table>
       <tbody>
         <tr>
-          <td>김영목</td>
-          <td>김영목</td>
-          <td>김영목</td>
-          <td>김영목/td>
-          <td>김영목</td>
-	  d>
+          <td>지훈</td>
+          <td>지훈</td>
+          <td>지훈</td>
+          <td>지훈</td>
+          <td>지훈</td>
        </tr>
        <tr>
           <td>이름</td>
