@@ -1,19 +1,20 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>김소리</td>
-          <td>김소리</td>
-        </tr>
-        <tr>
+          <td>김영목</td>
+          <td>김영목</td>
+          <td>김영목</td>
+          <td>김영목/td>
+          <td>김영목</td>
+	  d>
+       </tr>
+       <tr>
           <td>종선</td>
           <td>종선</td>
           <td>종선</td>
           <td>이름</td>
           <td>이름</td>
-        </tr>
+       <tr>
       </tbody>
 </table>
 
