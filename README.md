@@ -8,9 +8,9 @@
           <td>이름</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>종선</td>
+          <td>종선</td>
+          <td>종선</td>
           <td>이름</td>
           <td>이름</td>
         </tr>
