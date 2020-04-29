@@ -1,11 +1,7 @@
 <table>
       <tbody>
         <tr>
-          <td>김영목</td>
-          <td>김영목</td>
-          <td>김영목</td>
-          <td>김영목/td>
-          <td>김영목</td>
+
        </tr>
        <tr>
           <td>종선</td>
