@@ -1,22 +1,11 @@
 <table>
       <tbody>
         <tr>
-<<<<<<< HEAD
-
-       </tr>
-       <tr>
-          <td>지환지환</td>
-          <td>지환지환</td>
-          <td>환지환</td>
-          <td>환환환</td>
           <td>지환</td>
-=======
-          <td>성정민</td>
-          <td>성정민</td>
-          <td></td>
-          <td>성정민</td>
-          <td>성정민</td>
->>>>>>> 7713cd4aca5033ff9de0d7a7b2b2334675086854
+          <td>환지환지환환</td>
+          <td>환환환</td>
+          <td>지환지환</td>
+	  <td>지환</td>
        <tr>
       </tbody>
 </table>
