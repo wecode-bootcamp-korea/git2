@@ -4,10 +4,10 @@
 
        </tr>
        <tr>
-          <td>종선</td>
-          <td>종선</td>
-          <td>종선</td>
-          <td>이름</td>
+          <td>지환</td>
+          <td>지환</td>
+          <td>환</td>
+          <td>환환환</td>
           <td>이름</td>
        <tr>
       </tbody>
