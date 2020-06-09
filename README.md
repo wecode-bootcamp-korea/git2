@@ -6,9 +6,9 @@
        <tr>
           <td>지환</td>
           <td>지환</td>
-          <td>환</td>
+          <td>환지환</td>
           <td>환환환</td>
-          <td>이름</td>
+          <td>지환</td>
        <tr>
       </tbody>
 </table>
