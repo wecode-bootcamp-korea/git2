@@ -4,11 +4,11 @@
 
        </tr>
        <tr>
-          <td>종선</td>
-          <td>종선</td>
-          <td>종선</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>재천</td>
+          <td>재천</td>
+          <td>재천</td>
+          <td>재천</td>
+          <td>재천</td>
        <tr>
       </tbody>
 </table>
