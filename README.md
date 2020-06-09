@@ -1,14 +1,14 @@
 <table>
       <tbody>
         <tr>
-
-       </tr>
+	이름 
+       </tr> 
        <tr>
-          <td>종선</td>
-          <td>종선</td>
-          <td>종선</td>
+          <td>소리</td>
+          <td>소리</td>
           <td>이름</td>
           <td>이름</td>
+          <td>소리</td>
        <tr>
       </tbody>
 </table>
