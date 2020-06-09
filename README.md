@@ -1,10 +1,9 @@
 <table>
       <tbody>
         <tr>
-          <td>david</td>
-          <td>성정민</td>
-          <td></td>
-          <td>성정민</td>
+          <td>성중1만</td>
+          <td>성중22만</td>
+          <td>성중3만</td>
           <td>성정민</td>
        <tr>
       </tbody>
