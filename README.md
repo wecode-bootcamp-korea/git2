@@ -4,11 +4,11 @@
 
        </tr>
        <tr>
-          <td>재2천</td>
-          <td>재3천</td>
-          <td>재4천</td>
-          <td>재5천</td>
-          <td>재5천</td>
+          <td>재12천</td>
+          <td>재23천</td>
+          <td>재34천</td>
+          <td>재45천</td>
+          <td>재55천</td>
        <tr>
       </tbody>
 </table>
