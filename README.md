@@ -1,14 +1,19 @@
 <table>
       <tbody>
         <tr>
+          <td>영빈</td>
+          <td>영빈</td>
+          <td>영빈</td>
+          <td>영빈</td>
+          <td>영빈짱:</td>
        </tr>
        <tr>
-          <td>소리</td>
-          <td>종선</td>
-          <td>종선</td>
-          <td>소리</td>
-          <td>이름</td>
-       <tr>
+          <td>영빈</td>
+          <td>영빈</td>
+          <td>영빈</td>
+          <td>d영빈:</td>
+          <td>영빈:</td>
+       </tr>
       </tbody>
 </table>
 
