@@ -4,11 +4,11 @@
 
        </tr>
        <tr>
-          <td>재천</td>
-          <td>재천</td>
-          <td>재천</td>
-          <td>재천</td>
-          <td>재천</td>
+          <td>재2천</td>
+          <td>재3천</td>
+          <td>재4천</td>
+          <td>재5천</td>
+          <td>재5천</td>
        <tr>
       </tbody>
 </table>
